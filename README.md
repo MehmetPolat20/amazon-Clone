@@ -7,7 +7,8 @@ This project is a web application developed to clone the basic design of Amazon.
 -	Basic shopping cart page
 ## Preview
 
-https://github.com/MehmetPolat20/amazon-Clone/assets/150278524/6bf9e7ad-0161-4a76-a23d-2800940272b4
+![Amazon-ezgif com-video-to-gif-converter](https://github.com/MehmetPolat20/amazon-Clone/assets/150278524/f630f20a-4c27-4edb-9a61-7c9feca0551a)
+
 
 ## For your questions and suggestions
 <a href="mailto:mehmet.polat2035@gmail.com" target="_blank" style="text-decoration: none;">
